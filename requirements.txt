@@ -1,0 +1,7 @@
+flask
+waitress
+numpy
+fasttext
+goslate
+sacremoses
+requests
