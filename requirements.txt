@@ -5,6 +5,7 @@ fasttext
 goslate
 sacremoses
 requests
-argostranslate
+argostranslate==1.8.0
+
 
 
